@@ -32,7 +32,8 @@ Download this and paste it inside models folder.
 
 ## Tips
 * Install elasticsearch and always check if elastic search process is running before launching server.py or index_database.py.
-
+https://tecadmin.net/setup-elasticsearch-on-ubuntu/
+https://thishosting.rocks/install-java-ubuntu/
 
 * Instead of using the upload functionality, paste all your images inside `static/img` folder followed by `python index_database.py` to index all those images.
 
