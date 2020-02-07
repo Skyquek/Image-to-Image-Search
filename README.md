@@ -35,6 +35,10 @@ Download this and paste it inside models folder.
 * https://tecadmin.net/setup-elasticsearch-on-ubuntu/
 * https://thishosting.rocks/install-java-ubuntu/
 
+TODO:
+Add Load Balancer with nginx reverse proxy:
+* https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04
+
 * Instead of using the upload functionality, paste all your images inside `static/img` folder followed by `python index_database.py` to index all those images.
 
 
